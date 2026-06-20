@@ -30,3 +30,11 @@ A Python-based network traffic analysis tool designed to capture and inspect pac
 - Dashboard Integration
 - Threat Detection Module
 - Real-time Alerts
+
+## How to Run
+
+- Install dependencies
+   pip install -r requirements.txt
+- Run the program
+   python python-packet-sniffer.py
+- Monitor network packets in real time
